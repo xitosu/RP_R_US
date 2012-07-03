@@ -1,0 +1,135 @@
+html { overflow-x: hidden; overflow-y: auto; } 
+
+form { display:inline; }
+img  { vertical-align:middle; border:0px }
+BODY { font-family: Verdana, Tahoma, Arial, sans-serif; font-size: 10px; color: #222; margin:0px 10px 0px 10px;background-color:#B1D2E1;background-image:url(http://i5.ifrm.com/1743/38/upload/p248063.gif) }
+TABLE, TR, TD { font-family: Verdana, Tahoma, Arial, sans-serif; font-size: 10px; color: #222; }
+a:link, a:visited, a:active { text-decoration: none; color: #6D99AF }
+a:hover { color: #6D99AF; text-decoration:underline }
+
+fieldset.search { padding:6px; line-height:150% }
+label { cursor:pointer; }
+
+img.attach { border:2px outset #EEF2F7;padding:2px }
+
+.googleroot  { padding:6px; line-height:130% }
+.googlechild { padding:6px; margin-left:30px; line-height:130% }
+.googleparent { padding:6px; margin-left:30px; line-height:130%; color:#47971 }
+.googlebottom, .googlebottom a:link, .googlebottom a:visited, .googlebottom a:active { font-size:11px; color: #3A4F6C; }
+.googlish, .googlish a:link, .googlish a:visited, .googlish a:active { font-size:14px; font-weight:bold; color:#00D; }
+.googlepagelinks { font-size:1.1em; letter-spacing:1px }
+.googlesmall, .googlesmall a:link, .googlesmall a:active, .googlesmall a:visited { font-size:10px; color:#434951 }
+
+li.helprow { padding:0px; margin:0px 0px 10px 0px }
+ul#help    { padding:0px 0px 0px 15px }
+
+option.cat { font-weight:bold; }
+option.sub { font-weight:bold;color:#555 }
+.caldate  { text-align:right;font-weight:bold;font-size:11px;color:#6D99AF;background-color:#DFEEF4;padding:4px;margin:0px }
+
+.warngood { color:green }
+.warnbad  { color:red }
+
+#padandcenter { margin-left:auto;margin-right:auto;text-align:center;padding:14px 0px 14px 0px }
+
+#profilename { font-size:28px; font-weight:bold; }
+#calendarname { font-size:22px; font-weight:bold; }
+
+#photowrap { padding:6px; }
+#phototitle { font-size:24px; border-bottom:1px solid black }
+#photoimg  { text-align:center; margin-top:15px } 
+
+#ucpmenu    { line-height:150%;width:22%; border:1px solid #ABCEDF;background-color: #E7F1F5 }
+#ucpmenu p  { padding:2px 5px 6px 9px;margin:0px; }
+#ucpcontent { background-color: #E7F1F5; border:1px solid #ABCEDF;line-height:150%; width:auto }
+#ucpcontent p  { padding:10px;margin:0px; }
+
+#ipsbanner { position:absolute;top:1px;right:5%; }
+#logostrip { border:1px solid #ABCEDF;background-color: #ABCEDF;background-image:url();padding:0px;margin:0px; }
+#submenu  { border:1px solid #DFEEF4;background-color: #E7F1F5;background-image: url(http://i5.ifrm.com/1743/38/upload/p243313.gif);font-size:10px;margin:0px 0px 0px 0px;color:#6D99AF;font-weight:bold;}
+#submenu a:link, #submenu  a:visited, #submenu a:active { font-weight:bold;font-size:10px;text-decoration: none; color: #6D99AF; }
+#userlinks { border:1px solid #ABCEDF; background-color: #E7F1F5;background-image: url(http://i5.ifrm.com/1743/38/upload/p243313.gif) }
+
+#navstrip  { font-weight:bold;padding:6px 0px 6px 0px; }
+
+.activeuserstrip { background-color:#E7F1F5;background-image:url(http://i5.ifrm.com/1743/38/upload/p239985.gif); padding:3px }
+
+.pformstrip { background-color: #E7F1F5;background-image: url(http://i5.ifrm.com/1743/38/upload/p239316.gif); color:#6D99AF;font-weight:bold;padding:3px;margin-top:1px }
+.pformleft  { background-color: #E7F1F5; padding:6px; margin-top:1px;width:25%; border-top:1px solid #ABCEDF; border-right:1px solid #ABCEDF; }
+.pformleftw { background-color: #E7F1F5; padding:6px; margin-top:1px;width:40%; border-top:1px solid #ABCEDF; border-right:1px solid #C2CFDF; }
+.pformright { background-color: #E7F1F5; padding:6px; margin-top:1px;border-top:1px solid #ABCEDF; }
+
+.post1 { background-color: #E7F1F5 }
+.post2 { background-color: #E7F1F5 }
+.postlinksbar { background-color:#E7F1F5;padding:3px;margin-top:1px;font-size:10px; background-image: url(http://i5.ifrm.com/1743/38/upload/p239316.gif) }
+
+.row1 { background-color: #E7F1F5 }
+.row2 { background-color: #E7F1F5 }
+.row3 { background-color: #E7F1F5 }
+.row4 { background-color: #E7F1F5 }
+
+.darkrow1 { background-color: #E7F1F5; color:#6D99AF; }
+.darkrow2 { background-color: #E7F1F5;background-image:url(http://i5.ifrm.com/1743/38/upload/p239985.gif);padding:5px; color:#6D99AF; }
+.darkrow3 { background-color: #E7F1F5;background-image:url(http://i5.ifrm.com/1743/38/upload/p243063.gif); color:#6D99AF; }
+
+.hlight { background-color: #DFEEF4 }
+.dlight { background-color: #E7F1F5 }
+
+.titlemedium { font-weight:bold; color:#6D99AF; padding:3px; margin:0px; background-image: url(http://i5.ifrm.com/1743/38/upload/p239316.gif) }
+.titlemedium  a:link, .titlemedium  a:visited, .titlemedium  a:active  { text-decoration: underline; color: #6D99AF }
+
+.maintitle {background-position:center; vertical-align:middle;font-weight:bold; color:#6D99AF; letter-spacing:0px; padding:9px 0px 9px 5px; background-image: url(http://i5.ifrm.com/1743/38/upload/p238689.gif);text-align: center }
+.maintitle a:link, .maintitle  a:visited, .maintitle  a:active { text-decoration: none; color: #6D99AF }
+.maintitle a:hover { text-decoration: underline }
+
+.plainborder { border:1px solid #ABCEDF;background-color:#ABCEDF }
+.tableborder { border:1px solid #E9F2F6;background-color:#ABCEDF; padding:0px; margin:0px; width:100% }
+.tablefill  { border:1px solid #ABCEDF;background-color:#DFEEF4;padding:6px;  }
+.tablepad    { border:1px solid #ABCEDF;background-color:#DFEEF4;padding:6px }
+.tablebasic  { width:100%; padding:0px 0px 0px 0px; margin:0px; border:0px }
+
+.wrapmini    { float:left;line-height:1.5em;width:25% }
+.pagelinks  { float:left;line-height:1.2em;width:35% }
+
+.desc { font-size:10px; color:#222 }
+.edit { font-size: 9px }
+
+.signature  { font-size: 10px; color: #6D99AF }
+.postdetails { font-size: 10px }
+.postcolor  { font-size: 12px; line-height: 160% }
+
+.normalname { font-size: 12px; font-weight: bold; color: #003 }
+.normalname a:link, .normalname a:visited, .normalname a:active { font-size: 12px }
+.unreg { font-size: 11px; font-weight: bold; color: #900 }
+
+.searchlite { font-weight:bold; color:#F00; background-color:#FF0 }
+
+#QUOTE { font-family: Verdana, Arial; font-size: 11px; color: #6D99AF; background-color: #DFEEF4; border: 1px solid #ABCEDF; padding-top: 2px; padding-right: 2px; padding-bottom: 2px; padding-left: 2px }
+#CODE  { font-family: Courier, Courier New, Verdana, Arial;  font-size: 11px; color: #6D99AF; background-color: #DFEEF4; border: 1px solid #ABCEDF; padding-top: 2px; padding-right: 2px; padding-bottom: 2px; padding-left: 2px }
+
+.copyright { font-family: Verdana, Tahoma, Arial, Sans-Serif; font-size: 9px; line-height: 12px }
+
+.codebuttons  { font-size: 10px; font-family: verdana, helvetica, sans-serif; vertical-align: middle }
+.forminput, .textinput, .radiobutton, .checkbox  { font-size: 11px; font-family: verdana, helvetica, sans-serif; vertical-align: middle }
+.forminput {color:#6D99AF}
+.textinput {color:#6D99AF}
+.thin { padding:6px 0px 6px 0px;line-height:140%;margin:2px 0px 2px 0px;border-top:1px solid #ABCEDF;border-bottom:1px solid #ABCEDF }
+
+</style>
+</style><center><b>PURE: The Heart of an Angel</b> created by <b>Lightz</b> of the <b><a href="http://forums.ifskinzone.net/index.php?act=idx" target="_blank">IF Skin Zone</a></b></center><style type="text/css">
+
+.purple { color:purple;font-weight:bold }
+.red    { color:red;font-weight:bold }
+.green  { color:green;font-weight:bold }
+.blue  { color:blue;font-weight:bold }
+.orange { color:#F90;font-weight:bold }
+
+.ucpmaintitle { font-weight:bold; color:#6D99AF;background-image:url(http://i5.ifrm.com/1743/38/upload/p244791.gif) }
+
+</style>
+<script language='javascript'>
+if ( location.search.indexOf('act=UserCP')!=-1 ){document.write("<style>.maintitle { background-image: url(http://i5.ifrm.com/1743/38/upload/p244791.gif); }}</style>")}
+</script>
+<script language='javascript'>
+if ( location.search.indexOf('act=site')!=-1 ){document.write("<style>.maintitle { background-image: url(http://i5.ifrm.com/1743/38/upload/p244791.gif); }}</style>")}
+</script>

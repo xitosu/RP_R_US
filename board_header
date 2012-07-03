@@ -1,0 +1,50 @@
+<% BOARD HEADER %>
+<% NAVIGATION %>
+
+<center><table bgcolor="black" width="100%" border="0" style="border-collapse:collapse"  bordercolor="black" >
+<td bordercolor="#000000">
+<table width="99%" class='0' cellspacing="5" cellpadding="1">
+<tr>
+<td width="100%" class='0' valign="top">
+
+
+<center>
+<div class='maintitle'>
+Notification
+</div>
+<DIV class="tablepad"><span class='desc'>
+<p>Hello Everyone, </p>
+<p>This is Xitosu(Carissa), I would like to say that many of our rper's are currently taking breaks, so there might not be much rping coming up. But who knows something interesting might happen soon and everyone will return. I understand everyone has daily lives and becasue school picked up again that this forum will seem more dead than anything but remember RP for a hobby nothing serious.</p>
+<p>Have fun and don't forget your time here at RPS_R_ US: Battle City.</p>
+
+</span></div>
+</div>
+<br /></center>
+
+<center>
+<div class='maintitle'>
+Chat Box
+</div>
+<div class="tablepad"><span class='desc'>
+<!-- BEGIN CBOX - www.cbox.ws - v001 -->
+<div id="cboxdiv" style="text-align: center; line-height: 0">
+<div><iframe frameborder="0" width="300" height="440" src="http://www4.cbox.ws/box/?boxid=3392987&amp;boxtag=2980&amp;sec=main" marginheight="2" marginwidth="2" scrolling="auto" allowtransparency="yes" name="cboxmain4-3392987" style="border:#636C75 1px solid;" id="cboxmain4-3392987"></iframe></div>
+<div><iframe frameborder="0" width="300" height="75" src="http://www4.cbox.ws/box/?boxid=3392987&amp;boxtag=2980&amp;sec=form" marginheight="2" marginwidth="2" scrolling="no" allowtransparency="yes" name="cboxform4-3392987" style="border:#636C75 1px solid;border-top:0px" id="cboxform4-3392987"></iframe></div>
+</div>
+<!-- END CBOX -->
+</span></div>
+</div>
+<br /></center>
+
+
+<img src='http://i1.ifrm.com/style_images/1/spacer.gif' alt='' width='190' height='1' />
+</td>
+<!--SPACER-->
+<td width="5" class='0'>&nbsp;</td>
+<td width="90%" class='0' valign="top">
+
+
+<% BOARD %>
+</td>
+</tr>
+</table><% STATS %>
